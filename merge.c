@@ -120,7 +120,7 @@ int main(int argc, char **argv)
         
         free(Array[i]);
     
-    
+    free(temp);
     
     free(strlen);
     
